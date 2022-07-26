@@ -3,7 +3,7 @@
 
 Study the evolution of the Information Sciences programs and courses over the years.
 
-###Introduction
+### Introduction
 Often students while looking up for their dream universities and programs don’t get access to
 proper statistics which could help them compare the different options available and make
 informed decisions. Also, schools and colleges lack information through which they can
@@ -15,7 +15,7 @@ to have a quick look at the statistics about the iSchool and support their decis
 process. Also, this dashboard can be used by the iSchool officials to evaluate the performance
 and popularity of the programs and come up with strategies to improve their quality.
 
-###Dataset
+### Dataset
 We have collected data from two major sources - University of Illinois, Division Of
 Management Information’s website and Eddie Web Intelligence Tool. From DMI we
 collected data regarding the total enrollment by majors, race, gender and residency. Using
@@ -27,15 +27,15 @@ merge them into a single file for our analysis. The second challenge with this D
 that, all the semester’s data did not contain the same number of headers so we had to
 manually consider this and merge all the semester files together.
 
-###Data Preparation
+### Data Preparation
 The data received from DMI and Eddie were not in ready to use format. So, we used Tableau
 Prep Builder to prepare our data which we fed to Tableau for creating the desired
 visualisations. 
 
-###Analysis
+### Analysis
 The detailed analysis and report can be found in the project report attached.
 
-###Future Work
+### Future Work
 With this project we would like to dig deeper into analysing admission criteria for ischool
 programs by studying parameters like number of applicants, gpa, exam scores, work
 experience of applicants and acceptance rate etc. which would further help aspirants to
